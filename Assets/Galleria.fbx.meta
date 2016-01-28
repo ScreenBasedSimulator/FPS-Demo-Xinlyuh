@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 593359c2d6aa9c84597ef90d485b355e
+timeCreated: 1453599528
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Caution
+    100002: //RootNode
+    100004: Railing
+    100006: Railing_2
+    100008: Railing_2_MeshPart0
+    100010: Railing_2_MeshPart1
+    100012: Railing_2_MeshPart2
+    100014: Railing_MeshPart0
+    100016: Railing_MeshPart1
+    100018: Railing_MeshPart2
+    100020: Railway
+    100022: Railway_1
+    100024: Step
+    100026: Step_2
+    100028: Terrain
+    100030: Tunnel
+    400000: Caution
+    400002: //RootNode
+    400004: Railing
+    400006: Railing_2
+    400008: Railing_2_MeshPart0
+    400010: Railing_2_MeshPart1
+    400012: Railing_2_MeshPart2
+    400014: Railing_MeshPart0
+    400016: Railing_MeshPart1
+    400018: Railing_MeshPart2
+    400020: Railway
+    400022: Railway_1
+    400024: Step
+    400026: Step_2
+    400028: Terrain
+    400030: Tunnel
+    2300000: Caution
+    2300002: Railing_2_MeshPart0
+    2300004: Railing_2_MeshPart1
+    2300006: Railing_2_MeshPart2
+    2300008: Railing_MeshPart0
+    2300010: Railing_MeshPart1
+    2300012: Railing_MeshPart2
+    2300014: Railway
+    2300016: Railway_1
+    2300018: Step
+    2300020: Step_2
+    2300022: Terrain
+    2300024: Tunnel
+    3300000: Caution
+    3300002: Railing_2_MeshPart0
+    3300004: Railing_2_MeshPart1
+    3300006: Railing_2_MeshPart2
+    3300008: Railing_MeshPart0
+    3300010: Railing_MeshPart1
+    3300012: Railing_MeshPart2
+    3300014: Railway
+    3300016: Railway_1
+    3300018: Step
+    3300020: Step_2
+    3300022: Terrain
+    3300024: Tunnel
+    4300000: Terrain
+    4300002: Railway
+    4300004: Railway_1
+    4300006: Tunnel
+    4300008: Caution
+    4300010: Step
+    4300012: Railing_MeshPart0
+    4300014: Railing_MeshPart1
+    4300016: Railing_MeshPart2
+    4300018: Step_2
+    4300020: Railing_2_MeshPart0
+    4300022: Railing_2_MeshPart1
+    4300024: Railing_2_MeshPart2
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
